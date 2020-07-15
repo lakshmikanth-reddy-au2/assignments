@@ -121,12 +121,16 @@ For example, given n = 3, a solution set is:
 
 Create a function which takes a state as input and loops through the data to output the cities that belong to that state. The data can be found in the file [cities.json](data/cities.json)
 
+```
 Example: getCities("Telangana");
 Output: ["Hyderabad", "Warangal", "Nijambadh", "Rangareddy".....]
+```
 
 ### For the day 24-July-2020
 
 Create a Javascript function which takes author and language as input nd loops through the data to output the titles that the author has written in that particular language. [books.json](data/books.json)
 
-example: getTitles("Chinua Achebe", "English")
+```
+Example: getTitles("Chinua Achebe", "English")
 Output: ["Things Fall Apart"]
+```
