@@ -1,4 +1,4 @@
-### For the day 16-July-2020
+### 1) For the day 16-July-2020
 
 Given a chemical formula as a string, the task is to get the count of atoms in the chemical formula.
 ```
@@ -13,7 +13,7 @@ Output: Na 2
         O 2
 ```
 
-### For the day 17-July-2020
+### 2) For the day 17-July-2020
 
 Write a Javascript function that takes a string and compresses it.
 
@@ -21,13 +21,13 @@ You can use a simple character count algorithm for the compression. So for each 
 
 So an input string like `AAABCCDDDD` will become `A3BC2D4`.
 
-### For the day 18-July-2020
+### 3) For the day 18-July-2020
 
 Write a Javascript program that removes duplicates from an array.
 
 For example, if the input array is `[1, 2, 2, 3, 4, 5, 6, 6, 7]`, the output of the program should be [1, 2, 3, 4, 5, 6, 7]
 
-### For the day 19-July-2020
+### 4) For the day 19-July-2020
 
 Write a Javascript function that prints the frequency of all the elements in an array.
 
@@ -45,7 +45,7 @@ Output : 10 -> 2
 
 
 
-### For the day 20-July-2020
+### 5) For the day 20-July-2020
 
 Roman numerals are represented by seven different symbols:
 ```
@@ -87,7 +87,7 @@ Output: "MCMXCIV"
 Assume that, the input integer is guaranteed to be within the range from 1 to 3999.
 
 
-### For the day 21-July-2020
+### 6) For the day 21-July-2020
 
 
 Given `n` pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
@@ -105,7 +105,7 @@ For example, given n = 3, a solution set is:
 
 
 
-### For the day 22-July-2020 (Create a React app )
+### 7) For the day 22-July-2020 (Create a React app )
 
 1. Use the timer example at https://reactjs.org/ and modify it to tick at every 100 millisecond.
 0.0, 0.1, 0.2 -> ... 
@@ -117,7 +117,7 @@ For example, given n = 3, a solution set is:
 **Hint:** Use `number.toFixed()` to display `45` as `45.0`. [Reference](https://www.w3schools.com/jsref/jsref_tofixed.asp)
 
 
-### For the day 23-July-2020
+### 8) For the day 23-July-2020
 
 Create a function which takes a state as input and loops through the data to output the cities that belong to that state. The data can be found in the file [cities.json](data/cities.json)
 
@@ -126,7 +126,7 @@ Example: getCities("Telangana");
 Output: ["Hyderabad", "Warangal", "Nijambadh", "Rangareddy".....]
 ```
 
-### For the day 24-July-2020
+### 9) For the day 24-July-2020
 
 Create a Javascript function which takes author and language as input nd loops through the data to output the titles that the author has written in that particular language. [books.json](data/books.json)
 
